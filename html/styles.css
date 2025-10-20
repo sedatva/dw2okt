@@ -210,11 +210,11 @@ footer {
   margin-top: 15px;
   font-size: 0.8em;
   padding: 10px 10px 30px 10px;
-  background-color: black;
+  background-color: white;
   color: rgb(204, 204, 204);
 }
 footer a {
-  color: white;
+  color: black;
 }
 /* add tutorial styles below here */
 * {
